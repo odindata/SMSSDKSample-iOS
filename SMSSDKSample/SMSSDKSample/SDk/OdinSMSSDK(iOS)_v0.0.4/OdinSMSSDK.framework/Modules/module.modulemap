@@ -1,0 +1,6 @@
+framework module OdinSMSSDK {
+  umbrella header "OdinSMSSDK.h"
+
+  export *
+  module * { export * }
+}
